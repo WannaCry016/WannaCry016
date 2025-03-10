@@ -1,7 +1,24 @@
 ![Alt Text](assets/dino.gif)
 
-# 💫 About Me:
-I am currently studying in IIT MADRAS<br>
+# Hi there! 👋 I'm Ayushman Pal
+
+🚀 **Machine Learning & Software Engineer | Competitive Programmer**
+
+I am a **B.Tech student at IIT Madras**, passionate about **Machine Learning, Deep Learning, and AI-driven automation**. With hands-on experience in **building scalable AI models, data engineering, and real-time ML applications**, I love solving challenging problems at the intersection of **AI, automation, and system design**.
+
+## 🔹 What I Work On
+
+- 🧠 **Machine Learning & AI** – Deep Learning, Computer Vision, NLP, and Reinforcement Learning  
+- ⚡ **Software Development** – Backend systems, automation, and bot detection  
+- 🏆 **Competitive Programming** – CodeChef (Max rating: 1740), Codeforces (Max rating: 1439)  
+- 📊 **Data Engineering** – Web scraping, database management, and data processing  
+
+## 💡 Projects & Experience
+
+- **Bot vs Browser** – Developed a **TypeScript-based bot detection system** leveraging ML models  
+- **Krishi Mitra** – AI-powered chatbot for **crop disease detection** and **agricultural insights**  
+- **Improved Hotel Search** – A **multimodal AI search engine** using **CNNs, FAISS, and HNSW**  
+- **Reomnify Internship** – Built **web scraping pipelines** and automated **data transformation**  
 
 
 ## 🌐 Socials:
