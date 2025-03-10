@@ -1,4 +1,4 @@
-![Alt Text](assets/your-gif.gif)
+![Alt Text](assets/dino.gif)
 <!--
 **WannaCry016/WannaCry016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
