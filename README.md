@@ -2,23 +2,46 @@
 
 # Hi there! 👋 I'm Ayushman Pal
 
-🚀 **Machine Learning & Software Engineer | Competitive Programmer**
+🚀 **AI Engineer | Systems Builder | Competitive Programmer**
 
-I am a **B.Tech student at IIT Madras**, passionate about **Machine Learning, Deep Learning, and AI-driven automation**. With hands-on experience in **building scalable AI models, data engineering, and real-time ML applications**, I love solving challenging problems at the intersection of **AI, automation, and system design**.
+I am a **B.Tech student at IIT Madras**, focused on building **real-world AI systems** at the intersection of **LLMs, system design, and developer tooling**. I enjoy designing and shipping **end-to-end products**, not just models.
 
-## 🔹 What I Work On
+---
 
-- 🧠 **Machine Learning & AI** – Deep Learning, Computer Vision, NLP, and Reinforcement Learning  
-- ⚡ **Software Development** – Backend systems, automation, and bot detection  
-- 🏆 **Competitive Programming** – CodeChef (Max rating: 1740), Codeforces (Max rating: 1439)  
-- 📊 **Data Engineering** – Web scraping, database management, and data processing  
+## 🔹 What I’m Building
 
-## 💡 Projects & Experience
+- 🧠 **IntervueStack** – Building an **AI-powered mock interview platform**  
+  - Real interview simulation (DSA / System Design)  
+  - AI interviewer with code editor + whiteboard interaction  
+  - Focus on **evaluation systems, agent orchestration, and real-time feedback**
 
-- **Bot vs Browser** – Developed a **TypeScript-based bot detection system** leveraging ML models  
-- **Krishi Mitra** – AI-powered chatbot for **crop disease detection** and **agricultural insights**  
-- **Improved Hotel Search** – A **multimodal AI search engine** using **CNNs, FAISS, and HNSW**  
-- **Reomnify Internship** – Built **web scraping pipelines** and automated **data transformation**  
+---
+
+## 🔹 Core Areas
+
+- 🤖 **AI Systems** – LLMs, agent design, evaluation pipelines  
+- ⚙️ **Software Engineering** – Backend systems, real-time apps, system design  
+- 🧪 **ML & Data** – Deep Learning, CV, NLP, embeddings, FAISS  
+- 🏆 **Competitive Programming** – CodeChef (1740), Codeforces (1439)
+
+---
+
+## 💡 Selected Work
+
+- **Multimodal Hotel Search** – Built an AI search engine using **CNNs + FAISS + HNSW**  
+- **Bot Detection System** – TypeScript-based system for detecting automated browsers  
+- **Krishi Mitra** – AI chatbot for crop disease detection and agricultural insights  
+- **Data Engineering @ Reomnify** – Web scraping pipelines & data transformation systems  
+
+---
+
+## ⚡ Highlights
+
+- 🏆 Hackathon Builder – shipped multiple end-to-end AI products under tight deadlines  
+- 📄 Built production-ready systems with **focus on architecture, not just models**  
+- 🔵 Exploring **AI-native products** with real user interaction loops  
+
+---
 
 
 ## 🌐 Socials:
